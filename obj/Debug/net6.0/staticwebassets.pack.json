@@ -1,0 +1,473 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-3.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\blog-detail-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-detail-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\blog-detail-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-detail-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\blog-detail-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-detail-3.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\blog-detail.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-detail.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\next-blog.png",
+      "PackagePath": "staticwebassets\\img\\blog\\next-blog.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\post-by.png",
+      "PackagePath": "staticwebassets\\img\\blog\\post-by.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\prev-blog.png",
+      "PackagePath": "staticwebassets\\img\\blog\\prev-blog.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\recent-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\recent-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\recent-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\recent-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\recent-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\recent-3.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\blog\\recent-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\recent-4.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\cart-page\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\cart-page\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\cart-page\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\flag-1.jpg",
+      "PackagePath": "staticwebassets\\img\\flag-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\flag-2.jpg",
+      "PackagePath": "staticwebassets\\img\\flag-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\img\\footer-logo.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\hero-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\hero-3.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-3.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\icon-1.png",
+      "PackagePath": "staticwebassets\\img\\icon-1.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\icon-2.png",
+      "PackagePath": "staticwebassets\\img\\icon-2.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\icon-3.png",
+      "PackagePath": "staticwebassets\\img\\icon-3.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\insta-1.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\insta-2.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\insta-3.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-3.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\insta-4.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-4.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\insta-5.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-5.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\insta-6.jpg",
+      "PackagePath": "staticwebassets\\img\\insta-6.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\latest-1.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\latest-2.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\latest-3.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-3.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\logo-carousel\\logo-1.png",
+      "PackagePath": "staticwebassets\\img\\logo-carousel\\logo-1.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\logo-carousel\\logo-2.png",
+      "PackagePath": "staticwebassets\\img\\logo-carousel\\logo-2.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\logo-carousel\\logo-3.png",
+      "PackagePath": "staticwebassets\\img\\logo-carousel\\logo-3.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\logo-carousel\\logo-4.png",
+      "PackagePath": "staticwebassets\\img\\logo-carousel\\logo-4.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\logo-carousel\\logo-5.png",
+      "PackagePath": "staticwebassets\\img\\logo-carousel\\logo-5.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\payment-method.png",
+      "PackagePath": "staticwebassets\\img\\payment-method.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\product-single\\avatar-1.png",
+      "PackagePath": "staticwebassets\\img\\product-single\\avatar-1.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\product-single\\avatar-2.png",
+      "PackagePath": "staticwebassets\\img\\product-single\\avatar-2.png"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\product-single\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-single\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\product-single\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-single\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\product-single\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-single\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\product-single\\tab-desc.jpg",
+      "PackagePath": "staticwebassets\\img\\product-single\\tab-desc.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\product-single\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-single\\thumb-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\product-single\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-single\\thumb-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\product-single\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-single\\thumb-3.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\man-1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\man-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\man-2.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\man-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\man-3.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\man-3.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\man-4.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\man-4.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\man-large.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\man-large.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-4.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-5.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-6.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-7.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-8.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-9.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\women-1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\women-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\women-2.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\women-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\women-3.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\women-3.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\women-4.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\women-4.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\products\\women-large.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\women-large.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\select-product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\select-product-1.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\select-product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\select-product-2.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\img\\time-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\time-bg.jpg"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\js\\jquery.dd.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dd.min.js"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\js\\jquery.zoom.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.zoom.min.js"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Work\\learn-csharp\\NET-Angular\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.NET-Angular.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.NET-Angular.props",
+      "PackagePath": "build\\NET-Angular.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.NET-Angular.props",
+      "PackagePath": "buildMultiTargeting\\NET-Angular.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.NET-Angular.props",
+      "PackagePath": "buildTransitive\\NET-Angular.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
